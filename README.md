@@ -1,10 +1,10 @@
 # Employee Attrition Prediction
-
+the attrition.ipynb is well documented for a better understanding of the process and code output in the file  
 ## Introduction
 Employee attrition is a critical challenge faced by organizations across industries. High attrition rates can lead to increased costs, reduced productivity, and negative impacts on employee morale. To address this issue, organizations need to identify the factors contributing to attrition and develop strategies to retain top talent.
 
 ## Project Overview
-This project aims to predict employee attrition using various machine learning models. The steps involved in this project include data preprocessing, exploratory data analysis (EDA), model selection, training, evaluation, and hyperparameter tuning.
+This project aims to predict employee attrition using various machine-learning models. The steps involved in this project include data preprocessing, exploratory data analysis (EDA), model selection, training, evaluation, and hyperparameter tuning.
 
 ## Table of Contents
 1. [Load the Data](#load-the-data)
