@@ -1,5 +1,5 @@
 # Employee Attrition Prediction
-the attrition.ipynb is well documented for a better understanding of the process and code output in the file  
+the attrition.ipynb is well documented for a better understanding of the process and code output in the file you can read it directly instead of this README.md
 ## Introduction
 Employee attrition is a critical challenge faced by organizations across industries. High attrition rates can lead to increased costs, reduced productivity, and negative impacts on employee morale. To address this issue, organizations need to identify the factors contributing to attrition and develop strategies to retain top talent.
 
